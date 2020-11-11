@@ -1,4 +1,4 @@
-# 该项目是我在gitee上搜索学习的开源项目，
+# 该项目是我在gitee上搜索学习的开源项目
 - 源项目地址: https://gitee.com/bdj/SpringBoot_v2
 - 快快加入学习的行列!!
 
