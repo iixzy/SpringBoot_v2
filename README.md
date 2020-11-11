@@ -1,3 +1,7 @@
+# 该项目是我在gitee上搜索学习的开源项目，
+- 源项目地址: https://gitee.com/bdj/SpringBoot_v2
+- 快快加入学习的行列!!
+
 
 ### 前言
 - SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。
